@@ -15,7 +15,7 @@ Follow the steps in order. Stop and ask the user whenever a step needs them.*
 ## Steps
 
 1. **Get the code.**
-   `git clone https://github.com/jarrodjohnson-gif/doc-writer ~/.config/doc-writer/src`
+   `git clone https://github.com/jarrodjohnson-gif/claude-google-docs ~/.config/doc-writer/src`
    (If it already exists: `git -C ~/.config/doc-writer/src pull`.)
 
 2. **Check tools.** `node --version` (18 or newer) and `python3 --version`. If Node is missing, ask the
